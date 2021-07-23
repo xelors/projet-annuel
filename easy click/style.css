@@ -1,0 +1,316 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 50vh;
+    font-family: poppins;
+}
+header div{
+    background: url(../img/ban2.png)center ;
+    height: 40vh;
+}
+header div img {
+    display: block;
+    position: absolute;
+    top: 5vh;
+    left: 37%;
+}
+header div p{
+    display: block;
+    position: absolute;
+    top: 25vh;
+    left: 36%;
+    font-size: 35px;
+    color: #2E583F;
+    font-family: catamaran;
+}
+header nav ul{
+    height: 7vh;
+    margin: 0;
+    padding: 0;
+    box-shadow: 0px 5px 10px #DCDADA;
+}
+header nav ul li{
+   float: left;
+   margin-left: 10%;
+   margin-top: 1%;
+   list-style: none;
+}
+header nav ul li a{
+    text-decoration: none;
+    text-transform: none;
+    font-size: 2vh;
+    color: #2E583F;
+}
+section p{
+    color: black;
+    margin: 5%;
+    width: 50%;
+    font-size: 25px;
+    
+}
+section .vert{
+    color:  #1a7a41;
+}
+#main{
+    display: block;
+    position: absolute;
+    top: 500px;
+    left: 70%;
+}
+.a{
+    margin-left: 30%;
+    margin-top: 100px;
+}
+.a p{
+    color:#2E583F ;
+    font-size: 35px;
+}
+
+.b h1{
+    color:  #73bb90;
+    font-size: 50px;
+    font-family: poppins;
+    margin-left: 5%;
+}
+
+article img{
+    height: 150px;
+}
+
+.ba{
+    width: 20%;
+    margin-left: 15%;
+    text-align: center;
+}
+
+.ba h2{
+    color: #2e5a3f;
+}
+
+.ba p{
+    font-size: 15px;
+    width: 90%;
+}
+
+.bb{
+    display: block;
+    position: absolute;
+    width: 20%;
+    top: 1117.5px;
+    left: 48%;
+    text-align: center;
+}
+.bb h2{
+    color: #2e5a3f;
+}
+
+.bb p{
+    font-size: 15px;
+    width: 90%;
+}
+
+.bc{
+    display: block;
+    position: absolute;
+    width: 20%;
+    top: 1117.5px;
+    left: 75%;
+    text-align: center;
+}
+.bc h2{
+    color: #2e5a3f;
+}
+
+.bc p{
+    font-size: 15px;
+    width: 90%;
+}
+
+.c h1{
+    color:  #73bb90;
+    font-size: 50px;
+    font-family: poppins;
+    margin-left: 50%;
+    margin-top: 70px;
+}
+
+.c p{
+    font-size: 20px;
+}
+
+.c #ca{
+    margin-left: 10%;
+}
+
+.c button{
+    height: 30px;
+    width: 10%;
+    color: white;
+    background-color: #1b442b;
+    border-radius: 15px;
+    margin-left: 10%;
+    border-color: white;
+}
+
+.c img{
+    display: block;
+    position: absolute;
+    height: 200px;
+    top: 1600px;
+    left: 65%;
+}
+
+.d h1{
+    color:  #73bb90;
+    font-size: 50px;
+    font-family: poppins;
+    margin-left: 5%;
+    margin-top: 70px;
+}
+
+.d p{
+    font-size: 20px;
+    margin-left: 50%;
+}
+
+.d button{
+    height: 30px;
+    width: 10%;
+    color: white;
+    background-color: #1b442b;
+    border-radius: 15px;
+    margin-left: 70%;
+    border-color: white;
+}
+
+.d img{
+    display: block;
+    position: absolute;
+    height: 250px;
+    top: 2200px;
+    left: 10%;
+}
+
+.e h1{
+    color:  #73bb90;
+    font-size: 50px;
+    font-family: poppins;
+    margin-left: 72%;
+    margin-top: 75px;
+}
+
+.e img{
+    height: 40px;
+}
+
+#ea{
+    width: 20%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+#ea img{
+    margin-left: -40%;
+}
+
+#ea p{
+    font-size: 11px;
+}
+
+#eb{
+    display: block;
+    position: absolute;
+    width: 20%;
+    top: 2710px;
+    left: 50%;
+    text-align: center;
+}
+
+#eb img{
+    margin-left: -38%;
+}
+#eb p{
+    font-size: 15px;
+}
+
+
+#ec{
+    display: block;
+    position: absolute;
+    width: 20%;
+    top: 2710px;
+    left: 75%;
+    text-align: center;
+}
+
+#ec img{
+    margin-left: -40%;
+}
+
+#ec p{
+    font-size: 11px;
+}
+
+footer{
+    background: #0d4d27;
+    height: 400px;
+    margin: 0px;
+}
+
+.fa{
+    display: block;
+    position: absolute;
+    width: 10%;
+    margin: 5%;
+}
+.fa ul{
+    height: 7vh;
+    margin: 0;
+    padding: 0;
+}
+.fa ul li{
+   margin-top: 1%;
+   list-style: none;
+}
+.fa ul li a{
+    text-decoration: none;
+    text-transform: none;
+    font-size: 2vh;
+    color: white;
+}
+
+.fb{
+    display: block;
+    position: absolute;
+    margin: 5%;
+    width: 20%;
+    left: 35%;
+    text-align: center;
+}
+
+.fb button{
+    height: 40px;
+    border-radius: 50px;
+    color:#0d4d27;
+}
+
+.fb p{
+    color: white;
+}
+
+.fc{
+    display: block;
+    position: absolute;
+    margin: 5%;
+    width: 20%;
+    left: 73%;
+    text-align: center;
+}
+
+.fc img{
+    height: 80px;
+}
+
+.fc p{
+    color: white;
+}
