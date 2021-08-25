@@ -1,0 +1,114 @@
+body{
+    margin: 5%;
+    padding: 0px;
+    font-size: 20px;
+}
+
+h1{
+    margin-left: 32.5%;
+    color: #2f5a40;
+}
+
+img{
+    height: 150px;
+    margin-left: 43%;
+}
+
+div{
+    height: 450px;
+    width: 50%;
+    box-shadow: 0px 0px 20px #DCDADA;
+    margin-left: 25%;
+    border-radius: 50px;
+    color: #264934;
+    font-size: 25px;
+}
+
+#a{
+    display: block;
+    position: absolute;
+    left: 30%;
+    top: 420px;
+}
+
+#b{
+    display: block;
+    position: absolute;
+    left: 30%;
+    top: 500px;
+    width: 30%;
+    height: 25px;
+    border-radius: 50px;
+    border-color:#264934 ;
+}
+
+#c{
+    display: block;
+    position: absolute;
+    left: 30%;
+    top: 550px;
+}
+
+#d{
+    display: block;
+    position: absolute;
+    left: 30%;
+    top: 630px;
+    width: 30%;
+    height: 25px;
+    border-radius: 50px;
+    border-color:#264934 ;
+}
+
+#e{
+    display: block;
+    position: absolute;
+    left: 60%;
+    top: 700px;
+    color: #264934 ;
+}
+
+div button{
+    display: block;
+    position: absolute;
+    left: 45%;
+    top: 800px;
+    width: 10%;
+    height: 25px;
+    border-radius: 50px;
+    background: #264934;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    text-transform: none;
+    color: rgb(53, 53, 53);
+}
+
+button{
+    width: 10%;
+    height: 25px;
+    border-radius: 50px;
+    background: #264934;
+    color: white;
+    margin-left: 10%;
+}
+
+#f{
+    display: block;
+    position: absolute;
+    left: 70%;
+    top: 850px;
+}
+
+#g{
+    display: block;
+    position: absolute;
+    left: 61.5%;
+    top: 910px;
+}
+
+#h{
+    margin-left: 6.5%;
+}

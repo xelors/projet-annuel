@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    box-shadow: 0px 5px 10px #DCDADA;
+}
+
+header nav ul{
+    height: 7vh;
+    margin: 0;
+    padding: 0;
+    margin-left: 10%;
+    margin-top: 15px;
+}
+header nav ul li{
+   float: left;
+   margin-left: 10%;
+   margin-top: 1%;
+   list-style: none;
+}
+header nav ul li a{
+    text-decoration: none;
+    text-transform: none;
+    font-size: 2vh;
+    color: #2E583F;
+}
+
+header button{
+    display: block;
+    position: absolute;
+    height: 30px;
+    width: 7%;
+    color: white;
+    background-color: rgb(238, 83, 22);
+    border-radius: 50px;
+    top: 25px;
+    left: 90%;
+}
+
+header #logo{
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 1%;
+}
+
+section{
+    height: 900px;
+}
+
+section h1{
+    color: rgb(136, 197, 155);
+    font-size: 120px;
+    margin-left: 5%;
+}
+
+section h2{
+    font-size: 30px;
+    margin-left: 5%;
+}
+
+section p{
+    font-size: 30px;
+    margin-left: 7%;
+}
+
+section img{
+    font-size: 30px;
+    margin-left: 5%;
+    display: block;
+    position: absolute;
+}
+
+section button{
+    font-size: 20px;
+    margin-left: 45%;
+    border-radius: 50px;
+    background: rgb(39, 83, 53);
+    color: white;
+}
+
+section div{
+    width: 80%;
+    height: 3px;
+    background: grey;
+    margin-left: 5%;
+}
+
+section a{
+    text-transform: none;
+    text-decoration: none;
+    color: rgb(48, 47, 47);
+}
+
+#a{
+    top: 488px;
+}
+
+#b{
+    top: 582px;
+}
+
+#c{
+    top: 680px;
+}
+
+#d{
+    top: 780px;
+}
+
+#e{
+    top: 875px;
+}
+
+#f{
+    margin-left: 43%;
+}
+
+footer{
+    background-color:  rgb(39, 83, 53);
+    color: white;
+    height: 300px;
+}
+
+footer p{
+    display: block;
+    position: absolute;
+    top: 1100px;
+    left: 7%;
+}
+
+footer nav li{ 
+    list-style: none;
+}
+
+footer a{
+    text-decoration: none;
+    text-transform: none;
+    color: white;
+}
+
+footer img{
+    display: block;
+    position: absolute;
+    top: 1100px;
+    left: 21%;
+}
+
+#f1{
+    display: block;
+    position: absolute;
+    top: 1200px;
+    left: 2%;
+    font-size: 20px;
+}
+
+#f2{
+    display: block;
+    position: absolute;
+    top: 1200px;
+    left: 85%;
+    font-size: 20px;
+}
+
+#f3{
+    display: block;
+    position: absolute;
+    height: 35px;
+    left: 46%;
+    top: 1195px;
+    background-color: rgb(238, 83, 22);
+    color:white ;
+    border-radius: 50px;
+    font-size: 25px;
+}
+
+#f4{
+    display: block;
+    position: absolute;
+    height: 35px;
+    left: 45%;
+    top: 1240px;
+    background-color: white;
+    color:rgb(39, 83, 53) ;
+    border-radius: 50px;
+    font-size: 25px;
+}
+
+footer h2{
+    display: block;
+    position: absolute;
+    top: 1140px;
+    left: 85.2%;
+    font-size: 25px;
+}

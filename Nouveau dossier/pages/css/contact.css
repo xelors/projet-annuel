@@ -1,0 +1,130 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../../img/back3.png);
+}
+
+header{
+    box-shadow: 0px 5px 10px #DCDADA;
+}
+
+header nav ul{
+    height: 7vh;
+    margin: 0;
+    padding: 0;
+    margin-left: 10%;
+    margin-top: 15px;
+}
+header nav ul li{
+   float: left;
+   margin-left: 10%;
+   margin-top: 1%;
+   list-style: none;
+}
+header nav ul li a{
+    text-decoration: none;
+    text-transform: none;
+    font-size: 2vh;
+    color: #2E583F;
+}
+
+header button{
+    display: block;
+    position: absolute;
+    height: 30px;
+    width: 7%;
+    color: white;
+    background-color: rgb(238, 83, 22);
+    border-radius: 50px;
+    top: 25px;
+    left: 90%;
+}
+
+header #logo{
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 1%;
+}
+
+section{
+    height: 1500px;
+}
+
+footer{
+    background-color:  rgb(39, 83, 53);
+    color: white;
+    height: 300px;
+}
+
+footer p{
+    display: block;
+    position: absolute;
+    top: 2480px;
+    left: 7%;
+}
+
+footer nav li{ 
+    list-style: none;
+}
+
+footer a{
+    text-decoration: none;
+    text-transform: none;
+    color: white;
+}
+
+footer img{
+    display: block;
+    position: absolute;
+    top: 2480px;
+    left: 21%;
+}
+
+#f1{
+    display: block;
+    position: absolute;
+    top: 2580px;
+    left: 2%;
+    font-size: 20px;
+}
+
+#f2{
+    display: block;
+    position: absolute;
+    top: 2580px;
+    left: 85%;
+    font-size: 20px;
+}
+
+#f3{
+    display: block;
+    position: absolute;
+    height: 35px;
+    left: 46%;
+    top: 2575px;
+    background-color: rgb(238, 83, 22);
+    color:white ;
+    border-radius: 50px;
+    font-size: 25px;
+}
+
+#f4{
+    display: block;
+    position: absolute;
+    height: 35px;
+    left: 45%;
+    top: 2620px;
+    background-color: white;
+    color:rgb(39, 83, 53) ;
+    border-radius: 50px;
+    font-size: 25px;
+}
+
+footer h2{
+    display: block;
+    position: absolute;
+    top: 2520px;
+    left: 85.2%;
+    font-size: 25px;
+}
