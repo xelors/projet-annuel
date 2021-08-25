@@ -48,7 +48,180 @@ header #logo{
 }
 
 section{
-    height: 1500px;
+    height: 1200px;
+}
+
+h1{
+    color: rgb(136, 197, 155);
+    font-size: 120px;
+    margin-left: 5%;
+}
+
+p{
+    color: white;
+}
+
+#a{
+    margin-left: 10%;
+    width: 30%;
+    display: block;
+    position: absolute;
+    top: 300px;
+    color: black;
+}
+
+#b{
+    margin-left: 5%;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+#c{
+    border-radius: 50px;
+    background: white;
+    color: rgb(51, 160, 85);
+    display: block;
+    position: absolute;
+    left: 15%;
+    top: 420px;
+}
+
+#d{
+    margin-left: 5%;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+#e{
+    border-radius: 50px;
+    color: white;
+    background-color: rgb(238, 83, 22);
+    display: block;
+    position: absolute;
+    left: 17%;
+    top: 490px;
+}
+
+#f{
+    margin-left: 5%;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+#g{
+    border-radius: 50px;
+    color: white;
+    background: rgb(39, 83, 53);
+    display: block;
+    position: absolute;
+    left: 21%;
+    top: 565px;
+}
+
+#h{
+    margin-left: 5%;
+    margin-top: 100px;
+    font-size: 20px;
+}
+
+#i{
+    color: black;
+    margin-top: 70px;
+    margin-left: 5%;
+    font-size: 20px;
+}
+
+#j{
+    margin-left: 5%;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#k{
+    color: black;
+    margin-left: 5%;
+    margin-top: 50px;
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    left: 25%;
+    top: 730px;
+}
+
+#l{
+    margin-left: 5%;
+    font-size: 20px;
+    border-radius: 10px;
+    display: block;
+    position: absolute;
+    left: 25%;
+    top: 820px;
+}
+
+#m{
+    color: black;
+    margin-left: 5%;
+    margin-top: 50px;
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 730px;
+}
+
+#n{
+    margin-left: 5%;
+    font-size: 20px;
+    border-radius: 10px;
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 820px;
+}
+
+#o{
+    color: black;
+    margin-top: 50px;
+    margin-left: 5%;
+    font-size: 20px;
+    display: block;
+    position: absolute;
+    left: 75%;
+    top: 730px;
+}
+
+#p{
+    margin-left: 5%;
+    font-size: 20px;
+    border-radius: 10px;
+    display: block;
+    position: absolute;
+    left: 75%;
+    top: 820px;
+}
+
+#q{
+    color: black;
+    margin-top: 50px;
+    margin-left: 5%;
+}
+
+#r{
+    width: 60%;
+    margin-left: 5%;
+    margin-top: 15px;
+    font-size: 20px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+#s{
+    font-size: 20px;
+    border-radius: 50px;
+    background: rgb(39, 83, 53);
+    color: white;
+    margin-left: 5%;
+    margin-top: 50px;
 }
 
 footer{
@@ -60,7 +233,7 @@ footer{
 footer p{
     display: block;
     position: absolute;
-    top: 2480px;
+    top: 1400px;
     left: 7%;
 }
 
@@ -77,14 +250,14 @@ footer a{
 footer img{
     display: block;
     position: absolute;
-    top: 2480px;
+    top: 1400px;
     left: 21%;
 }
 
 #f1{
     display: block;
     position: absolute;
-    top: 2580px;
+    top: 1500px;
     left: 2%;
     font-size: 20px;
 }
@@ -92,7 +265,7 @@ footer img{
 #f2{
     display: block;
     position: absolute;
-    top: 2580px;
+    top: 1500px;
     left: 85%;
     font-size: 20px;
 }
@@ -102,7 +275,7 @@ footer img{
     position: absolute;
     height: 35px;
     left: 46%;
-    top: 2575px;
+    top: 1495px;
     background-color: rgb(238, 83, 22);
     color:white ;
     border-radius: 50px;
@@ -114,7 +287,7 @@ footer img{
     position: absolute;
     height: 35px;
     left: 45%;
-    top: 2620px;
+    top: 1540px;
     background-color: white;
     color:rgb(39, 83, 53) ;
     border-radius: 50px;
@@ -124,7 +297,7 @@ footer img{
 footer h2{
     display: block;
     position: absolute;
-    top: 2520px;
+    top: 1440px;
     left: 85.2%;
     font-size: 25px;
 }
